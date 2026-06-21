@@ -20,10 +20,12 @@ This project analyzes FMCG sales data using Power BI and Python. The dashboard p
 - Delivery Performance Metrics
 
 ## Project Files
-- FMCG_Report.pdf
-- FMCG_Sales_Dashboard.pbix
-- Data_Cleaning.ipynb
+- Report.pdf
+- gayathri.pbix
+- screenshots
 
 ## Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-06-19 194922" src="https://github.com/user-attachments/assets/ff84672d-b96c-4775-89a4-4b1c458c0f90" />
+
 <img width="1177" height="752" alt="Screenshot 2026-06-19 194948" src="https://github.com/user-attachments/assets/a61dc857-4949-4e0b-a4b2-523cc334694a" />
 
